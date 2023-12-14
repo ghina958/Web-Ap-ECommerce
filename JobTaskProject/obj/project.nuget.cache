@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YsHmc18eps58HeuoKGDP/8a6WlUF4DW+bKolw75jEOwDKe29Iy51PWEvB9z93jTmT6ScSxGwWDiYkpiGIT9h+Q==",
+  "dgSpecHash": "9oCcyHsczt++E6hgV7eD11BsiEjeir0eU3SG+1pBB1qANG78X53PLT861J3oH2vL6M6OK70i4IHO2wz8A059Cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ghina\\source\\repos\\JobTaskProject\\JobTaskProject\\JobTaskProject.csproj",
+  "projectFilePath": "C:\\Users\\ghina\\Documents\\GitHub\\Web-Ap-ECommerce\\JobTaskProject\\JobTaskProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ghina\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\ghina\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

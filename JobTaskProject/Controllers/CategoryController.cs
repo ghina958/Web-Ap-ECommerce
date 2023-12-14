@@ -3,11 +3,13 @@ using JobTaskProject.Dto;
 using JobTaskProject.Interface;
 using JobTaskProject.Models;
 using JobTaskProject.Repository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace JobTaskProject.Controllers
 {
+    //[Authorize] //when you login as a admin you can add [Authorize(Roles = UserRoles.Admin)] 
     [Route("api/[controller]/[action]")]
     [ApiController]
     public class CategoryController : Controller

@@ -10,7 +10,7 @@ using System.Collections.Generic;
 
 namespace JobTaskProject.Controllers
 {
-    //[Authorize]
+    //[Authorize] //when you login as a admin you can add [Authorize(Roles = UserRoles.Admin)] 
     [Route("api/[controller]/[action]")]
     [ApiController]
     public class ProductController : Controller

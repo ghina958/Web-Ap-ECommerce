@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ghina\\source\\repos\\JobTaskProject\\JobTaskProject\\JobTaskProject.csproj": {}
+    "C:\\Users\\ghina\\Documents\\GitHub\\Web-Ap-ECommerce\\JobTaskProject\\JobTaskProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ghina\\source\\repos\\JobTaskProject\\JobTaskProject\\JobTaskProject.csproj": {
+    "C:\\Users\\ghina\\Documents\\GitHub\\Web-Ap-ECommerce\\JobTaskProject\\JobTaskProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ghina\\source\\repos\\JobTaskProject\\JobTaskProject\\JobTaskProject.csproj",
+        "projectUniqueName": "C:\\Users\\ghina\\Documents\\GitHub\\Web-Ap-ECommerce\\JobTaskProject\\JobTaskProject.csproj",
         "projectName": "JobTaskProject",
-        "projectPath": "C:\\Users\\ghina\\source\\repos\\JobTaskProject\\JobTaskProject\\JobTaskProject.csproj",
+        "projectPath": "C:\\Users\\ghina\\Documents\\GitHub\\Web-Ap-ECommerce\\JobTaskProject\\JobTaskProject.csproj",
         "packagesPath": "C:\\Users\\ghina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ghina\\source\\repos\\JobTaskProject\\JobTaskProject\\obj\\",
+        "outputPath": "C:\\Users\\ghina\\Documents\\GitHub\\Web-Ap-ECommerce\\JobTaskProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
